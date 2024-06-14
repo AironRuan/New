@@ -1,1 +1,1 @@
-Exercicio do projeto Oracle One e Alura
+Exercício do projeto Oracle One e Alura
